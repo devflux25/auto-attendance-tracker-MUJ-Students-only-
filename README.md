@@ -2,7 +2,7 @@
 A Python bot using Selenium and PyAutoGUI that automatically collects attendance data from SLCM and sends it to WhatsApp. Note: This script works only for MUJ students with valid SLCM credentials.
 
 # Attendance Collector Bot (MUJ Students Only)
-
+https://github.com/devflux25/auto-attendance-tracker-MUJ-Students-only-.git
 This bot automatically collects your attendance from **SLCM** and sends it to **WhatsApp Web**.
 It is built using **Selenium** and **PyAutoGUI**.
 
