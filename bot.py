@@ -15,7 +15,7 @@ Phone_Number = ''
 file_path = r""
 
 all_table_data = []
-outputfile = "attdance.csv"
+outputfile = "attendance..csv"
 # Create a new Options object
 chrome_options = Options()
 
@@ -130,5 +130,6 @@ try:
 except:
       print('hello') 
 time.sleep(2)
+
 
 pyautogui.press("enter")
