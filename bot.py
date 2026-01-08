@@ -132,4 +132,12 @@ except:
 time.sleep(2)
 
 
-pyautogui.press("enter")
+pyautogui.typewrite(str(datetime.datetime.now().date()))
+
+pyautogui.press("enter") 
+
+time.sleep(3)
+# closing the browser 
+
+pyautogui.hotkey('ctrl', 'shift', 'w')
+
