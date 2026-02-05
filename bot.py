@@ -12,7 +12,7 @@ import pyautogui
 username = ""
 passwrod = ""
 Phone_Number = ''
-file_path = r""
+file_path = r""  #paste the file path of the saved attendace file
 
 all_table_data = []
 outputfile = "attendance..csv"
@@ -140,4 +140,5 @@ time.sleep(3)
 # closing the browser 
 
 pyautogui.hotkey('ctrl', 'shift', 'w')
+
 
